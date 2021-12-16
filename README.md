@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TENKEY</h1>
 <h3 align="center">CS Undergrad, crocs on, logged in...</h3>
 
-- 🔭 I’m currently working on [making my first front end app.](TBA)
+- 🔭 I’m currently working on making my first front end app! [TBA]
 
 - 🌱 I’m currently learning **full stack skills they don't teach in school.**
 
