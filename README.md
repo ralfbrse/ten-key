@@ -1,8 +1,8 @@
 <h1 align="center">Hiyo! 👋, I'm <em>TENKEY</em></h1>
-<h3 align="center"><b>CS Undergrad, crocs on, logged in...</b>
+<h3 align="center"><b>CS Undergrad, crocs on, logged in...</b></h3>
 
-<p><br>🔭 I’m currently working on making my first front end app! TBA!</p>
-<p>🌱 I’m currently learning full stack skills they don't teach in school. <br></p></h3>
+<h5 align="center"><p><br>🔭 I’m currently working on making my first front end app! TBA!</p>
+<p>🌱 I’m currently learning full stack skills they don't teach in school. <br></p></h5>
 
 
 <h2 align="center"><b>Languages and Tools I'm trying to learn!</b></h2>
