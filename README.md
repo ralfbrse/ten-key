@@ -1,4 +1,4 @@
-<h1 align="center">Hiyo! 👋, I'm <em>TENKEY</em></h1>
+<h1 align="center">Hiyo👋, I'm <em>TENKEY</em>!</h1>
 <h3 align="center"><b>CS Undergrad, crocs on, logged in...</b></h3>
 
 <h5 align="center"><p><br>🔭 I’m currently working on making my first front end app! TBA!</p>
